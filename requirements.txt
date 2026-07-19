@@ -1,0 +1,6 @@
+apify-client
+openai
+python-dotenv
+requests
+pandas
+playwright
